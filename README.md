@@ -1,1 +1,1 @@
-# Patika.dev Hypotenuse in a Right Triangle Calculator
+# Patika.dev Right Triangle Calculator
